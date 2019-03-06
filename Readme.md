@@ -1,8 +1,8 @@
-# This is a heading
-## This is another (smaller) heading
+# Welcom!
+## This is Yiwei's website!
 
-- this is the beginning of a list
-- this is the next item in the list
-- and the next
+- I am Yiwei, a Year 1 student in ZJE.
+- My major is Biomedical Informatics.
+- Let's study and play together!
 
-[This is a link to a website](https://github.com/)
+[This is a link to the hompage of GitHub](https://github.com/)
