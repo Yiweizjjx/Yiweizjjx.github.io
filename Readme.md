@@ -1,4 +1,4 @@
-# Welcom!
+# Welcome!
 ## This is Yiwei's website!
 
 - I am Yiwei, a Year 1 student in ZJE.
